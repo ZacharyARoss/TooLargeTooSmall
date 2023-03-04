@@ -12,7 +12,6 @@ public class Main {
         Random rand = new Random();
 
         int correctNumber = 7;
-        int g = 5; //g = amount of user guesses
         int prevG = -1; // previous guesses
         int counter = 0;
 
